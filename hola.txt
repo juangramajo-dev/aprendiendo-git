@@ -1,1 +1,12 @@
 Hola mundo estoy aprendiendo Git
+
+feature - caracteristica o funcion nueva
+issue - problema o errore
+fix - arreglo de bug
+bug - problema con el codigo
+chore - cambios en el build
+docs - modificacion de la documentacion
+style - cambios en el formato de codigo
+refactor - cambios en el codigo existente
+perf - mejoras en el rendimiento
+test - agrega nuevos test
